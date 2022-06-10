@@ -1,0 +1,104 @@
+{"sites": [
+   
+//鐖櫕绾胯矾
+
+{"key": "teyond__zh__棣栭〉鎺ㄨ崘","name": "棣栭〉鎺ㄨ崘銆擯銆�","type": 3,"api": "csp_LiteApple"     ,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "teyond__zh__鐒︾偔褰辫","name": "鐒︾偔褰辫銆擯銆�","type": 3,"api": "csp_Cokemv"        ,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "teyond__zh__涓冧竷褰遍櫌","name": "涓冧竷褰遍櫌銆擯銆�","type": 3,"api": "csp_Kunyu77"       ,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "teyond__zh__濂堣惤褰遍櫌","name": "濂堣惤褰遍櫌銆擯銆�","type": 3,"api": "csp_Newfii"        ,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "teyond__zh__鍦ㄧ嚎涔嬪","name": "鍦ㄧ嚎涔嬪銆擯銆�","type": 3,"api": "csp_Zxzj"          ,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "teyond__zh__瀹樻柟璧勬簮","name": "瀹樻柟璧勬簮銆擯銆�","type": 3,"api": "csp_SP360"         ,"searchable": 1,"quickSearch": 1,"filterable": 1},
+
+//xpath绾胯矾
+
+{"key": "teyond__zh__鏋佸搧褰辫","name": "鏋佸搧褰辫銆擷銆�","type": 3,"api": "csp_XPathMac"      ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao01.json"},
+{"key": "teyond__zh__鍔ㄦ极宸村＋","name": "鍔ㄦ极宸村＋銆擷銆�","type": 3,"api": "csp_XPath"         ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao02.json"},
+{"key": "teyond__zh__AGE鍔ㄦ极" ,"name": "AGE鍔ㄦ极銆擷銆� ","type": 3,"api": "csp_XPath"         ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao03.json"},
+{"key": "teyond__zh__褰辫宸ュ巶","name": "褰辫宸ュ巶銆擷銆�","type": 3,"api": "csp_XBiubiu"       ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao04.json"},
+{"key": "teyond__zh__涓変簲褰遍櫌","name": "涓変簲褰遍櫌銆擷銆�","type": 3,"api": "csp_XBiubiu"       ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao05.json"},
+{"key": "teyond__zh__涔愮尓褰辫","name": "涔愮尓褰辫銆擷銆�","type": 3,"api": "csp_XBiubiu"       ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao06.json"},
+{"key": "teyond__zh__涔愮尓褰遍櫌","name": "涔愮尓褰遍櫌銆擷銆�","type": 3,"api": "csp_XPathMac"      ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao07.json"},
+{"key": "teyond__zh__鏁板瓧鐪嬬墖","name": "鏁板瓧鐪嬬墖銆擷銆�","type": 3,"api": "csp_XPathRec"      ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao08.json"},
+{"key": "teyond__zh__缁煎悎璧勬簮","name": "缁煎悎璧勬簮銆擷銆�","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao09.json"},
+
+//鍒囩墖绾胯矾
+
+{"key": "teyond__zh__鍗楀浗褰辫","name": "鍗楀浗褰辫銆擰銆�","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/"                                        ,"searchable":1,"quickSearch":1},
+{"key": "teyond__zh__鑹炬€濆奖闄�","name": "鑹炬€濆奖闄€擰銆�","type":1,"api":"https://www.aitee.cc/api.php/provide/vod/"   ,"playUrl":"https://jx.zjmiao.com/?url=","searchable":1,"quickSearch":1},
+{"key": "teyond__zh__鐪嬬尗褰辫","name": "鐪嬬尗褰辫銆擰銆�","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","playUrl":"parse:parwix1"              ,"searchable":1,"quickSearch":1},
+
+//缁煎悎绾胯矾
+
+{"key": "teyond__zh__濂堥潪褰辫","name": "濂堥潪褰辫銆擹銆�","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://app.netflixmi.com/api.php/v1.vod"},
+{"key": "teyond__zh__鐖遍叿褰辫","name": "鐖遍叿褰辫銆擹銆�","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
+{"key": "teyond__zh__鐩婅揪褰辫","name": "鐩婅揪褰辫銆擹銆�","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://luobu.yss6080.com/mogai_api.php/v1.vod"},
+{"key": "teyond__zh__鏆栧厜褰辫","name": "鏆栧厜褰辫銆擹銆�","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://app.bl210.com/api.php/v1.vod"},
+{"key": "teyond__zh__鐙挱褰辫","name": "鐙挱褰辫銆擹銆�","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://35ys.cc/api.php/v1.vod"},
+{"key": "teyond__zh__鑱氬褰辫","name": "鑱氬褰辫銆擹銆�","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://jdys.weetai.cn/api.php/iptv/vod/"},
+{"key": "teyond__zh__鍒虹尙褰辫","name": "鍒虹尙褰辫銆擹銆�","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.cccvvv.top/api.php/iptv/vod/"},
+{"key": "teyond__zh__澶╁ぉ瑙嗛","name": "澶╁ぉ瑙嗛銆擹銆�","type": 3,"api": "csp_AppYs"         ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://app.qianju.cc/api.php/v1.vod"},
+
+//瀹樻柟绾胯矾
+
+{"key": "teyond__gf__鏋侀叿褰辫","name": "鏋侀叿褰辫銆擥銆�","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jiku.vip/mogai_api.php/v1.vod"},
+{"key": "teyond__gf__濂界殑褰辫","name": "濂界殑褰辫銆擥銆�","type": 3,"api": "csp_AppYsV2"       ,"searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://123.ok00.xyz/api.php/v1.vod"},
+{"key": "teyond__gf__涓€闆跺叓闆�","name": "涓€闆跺叓闆躲€擥銆�","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://123.250idc.com/mogai_api.php/v1.vod"},
+
+//缁呭＋绾胯矾
+
+{"key": "teyond__fl__鑺掓灉璧勬簮","name": "鑺掓灉璧勬簮銆擟銆�","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0}],
+    
+//瑙ｆ瀽鎺ュ彛
+    
+"parses": [
+{"name": "瑙ｆ瀽鑱氬悎","type": 3,"url": "Demo"},
+{"name": "Json骞跺彂","type": 2,"url": "Parallel"},
+{"name": "Json杞","type": 2,"url": "Sequence"},
+{"name": "瑙ｆ瀽","type": 1,"url": "http://api.vip123kan.vip/?url=","ext": {"flag": ["youku","浼橀叿","mgtv","鑺掓灉","qq","鑵捐","qiyi","鐖卞鑹�","qq","濂囪壓"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://jx.xmflv.com/?url="},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://jx.renrenmi.cc/?url="},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://vip.parwix.com:4433/player/?url="},
+{"name": "瑙ｆ瀽","type": 1,"url": "http://jx.ledu8.cn/api/?key=P8QSgO61p1MpHV2ALn&url="},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1494542&key=ijmqvwxABEHILMOT48&url="},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1095368&key=cdgjpsuDFLNRTUVY03&url="},
+{"name": "瑙ｆ瀽","type": 0,"url": "https://vip.bljiex.com/?v=","ext":{"flag":["ltnb"]}},
+{"name": "瑙ｆ瀽","type": 0,"url": "https://ys.ling00.cn/CL4K/?url=","ext":{"flag":["CL4K","qq","鑵捐"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://a.dxzj88.com/jxrrm/jiami.php?url=","ext":{"flag":["renrenmi"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=","ext":{"flag":["renrenmi"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://app.iminna.com/jx/?url=","ext":{"flag":["youku","浼橀叿","mgtv","鑺掓灉","qq","鑵捐","qiyi","鐖卞鑹�","qq","濂囪壓"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://vvip.funsline.cn/api/?key=3xWfEoDf4V9p9Y20CR&url=","ext":{"flag":["ziqie","youku","浼橀叿","qiyi","鐖卞鑹�","濂囪壓","mgtv","鑺掓灉","qq","鑵捐"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=","ext":{"flag":["youku","浼橀叿","qq","鑵捐","mgtv","鑺掓灉"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","鑵捐","youku","浼橀叿","mgtv","鑺掓灉","xigua","瑗跨摐"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://za.kuanjv.com/?url=","ext":{"flag":["qq","鑵捐","qiyi","鐖卞鑹�","濂囪壓","youku","浼橀叿","mgtv","鑺掓灉","鎼滅嫄","sohu","letv","涔愯","bilibili","鍝斿摡鍝斿摡","鍝斿摡","xigua","瑗跨摐"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://json.hfyrw.com/mao.go?url=","ext":{"flag":["ltnb","renrenmi"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=","ext":{"flag":["ltnb","renrenmi","xfyun","miaoparty","miaoparty2","miaoparty3","longteng","xueren"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://json.5lp.net/json.php?url=","ext":{"flag":["ltnb","renrenmi","rx","rongxing"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=9105801&key=huwxFGILMOQSTUZ679&url=","ext":{"flag":["qq","鑵捐","qiyi","鐖卞鑹�","濂囪壓","youku","浼橀叿","mgtv","鑺掓灉"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=","ext":{"flag":["rx"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://vip.aiaine.com/api/?key=fOWaGgFU45zlIjvbHI&url=","ext":{"flag":["ltnb","renrenmi"]}},
+{"name": "瑙ｆ瀽","type": 1,"url": "https://svip.iremind.me/api/?key=A5Db8HF8c8FSIOR6R1&url=","ext":{"flag":["renrenmi","qq","鑵捐","qiyi","鐖卞鑹�","濂囪壓","youku","浼橀叿","mgtv","鑺掓灉","bilibili","鍝斿摡鍝斿摡","鍝斿摡","sohu"]}},
+{"name": "瑙ｆ瀽","type": 0,"url": "https://jx.parwix.com:4433/player/?url=","ext":{"flag":["qq","鑵捐","qiyi","鐖卞鑹�","濂囪壓","youku","浼橀叿","mgtv","鑺掓灉","letv","涔愯","pptv","PPTV","sohu","bilibili","鍝斿摡鍝斿摡","鍝斿摡"]}},
+{"name": "瑙ｆ瀽","type": 0,"url": "https://jx.parwix.com:4433/player/analysis.php?v=","ext":{"flag":["qq","鑵捐","qiyi","鐖卞鑹�","濂囪壓","youku","浼橀叿","mgtv","鑺掓灉","letv","涔愯","pptv","PPTV","sohu","bilibili","鍝斿摡鍝斿摡","鍝斿摡"]}}],
+"ijk": [{"group": "杞В鐮�","options": [{"category": 4,"name": "opensles","value": "0"},{"category": 4,"name": "overlay-format","value": "842225234"},{"category": 4,"name": "framedrop","value": "1"},
+{"category": 4,"name": "soundtouch","value": "1"},{"category": 4,"name": "start-on-prepared","value": "1"},{"category": 1,"name": "http-detect-range-support","value": "0"},
+{"category": 1,"name": "fflags","value": "fastseek"},{"category": 2,"name": "skip_loop_filter","value": "48"},{"category": 4,"name": "reconnect","value": "1"},
+{"category": 4,"name": "enable-accurate-seek","value": "0"},{"category": 4,"name": "mediacodec","value": "0"},{"category": 4,"name": "mediacodec-auto-rotate","value": "0"},
+{"category": 4,"name": "mediacodec-handle-resolution-change","value": "0"},{"category": 4,"name": "mediacodec-hevc","value": "0"},{"category": 1,"name": "dns_cache_timeout","value": "600000000"}]},
+{"group": "纭В鐮�","options": [{"category": 4,"name": "opensles","value": "0"},{"category": 4,"name": "overlay-format","value": "842225234"},{"category": 4,"name": "framedrop","value": "1"},
+{"category": 4,"name": "soundtouch","value": "1"},{"category": 4,"name": "start-on-prepared","value": "1"},{"category": 1,"name": "http-detect-range-support","value": "0"},
+{"category": 1,"name": "fflags","value": "fastseek"},{"category": 2,"name": "skip_loop_filter","value": "48"},{"category": 4,"name": "reconnect","value": "1"},
+{"category": 4,"name": "enable-accurate-seek","value": "0"},{"category": 4,"name": "mediacodec","value": "1"},{"category": 4,"name": "mediacodec-auto-rotate","value": "1"},
+{"category": 4,"name": "mediacodec-handle-resolution-change","value": "1"},{"category": 4,"name": "mediacodec-hevc","value": "1"},{"category": 1,"name": "dns_cache_timeout","value": "600000000"}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL210di50ZXlvbmQuY24vbS96Yi50eHQ="]}]}],
+"flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","duoduozy","renrenmi"],"spider": "https://raw.githubusercontent.com/breadmyth/bread/master/xp/wqty.jar",
+"ads": ["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com",
+"cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com",
+"xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com",
+"xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com",
+"s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com",
+"z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
+    
+    
+    
