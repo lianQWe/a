@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# 猫影视TV 2.1.1 BETA6 新功能
+本地接口 clan://协议 简易设定流程：
+* 下载底下懒人包 并记住存放位置
+* 升级猫影视TV至 2.1.1 Beta6
+* 设置 --> 存储权限 --> 允许
+* 设置 --> 当前接口配置 --> 透过扫码或浏览器访问网址 (如 http://192.168.xx.xx:9978/api.html)
+* 假设你已透过上述方式，成功进入"猫影视.接口"配置页面
+	* 配置 --> 上传文件 --> 长按刚刚下载的懒人包 选取 --> 开启 --> 确认上传? --> 确定
+* 回到猫影视TV --> 设置 --> 当前接口配置 --> 直接黏贴底下懒人包相对应的配置接口设定 --> 确定 --> 躺平
 
-You can use the [editor on GitHub](https://github.com/breadmyth/tv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+P.S
+* 同一懒人包(文件名称不变)，重复上传的话，新的设定&文件 会覆盖掉旧的
+* 同理 如懒人包有更新(文件名称不变)，只要下载并透过上述教学，重新上传一次，就算是更新了
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [唐三大佬]
+* 下载懒人包：[Tangsan99999.zip](https://github.com/YuanHsing/freed/raw/master/猫影视clan懒人包/Tangsan99999.zip)
+* 配置接口：clan://localhost/tangsan99999/xiaobai.json
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/breadmyth/tv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# [beddychen大佬]
+* 下载懒人包：[baddychen0608.zip](https://github.com/YuanHsing/freed/raw/master/猫影视clan懒人包/baddychen0608.zip)
+* 配置接口：clan://localhost/baddychen0608/baddychen0608.json
