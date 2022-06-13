@@ -83,19 +83,19 @@
       "filterable": 1
     },
     {
-      "key": "csp_Cokemv",
-      "name": "🎬Cokemv(SP)",
+      "key": "csp_Dy1990",
+      "name": "🔶1990电影(SP)",
       "type": 3,
-      "api": "csp_Cokemv",
+      "api": "csp_DY1990",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "csp_Dy1990",
-      "name": "🔶1990电影(SP)",
+      "key": "csp_Cokemv",
+      "name": "🎬Cokemv(SP)",
       "type": 3,
-      "api": "csp_DY1990",
+      "api": "csp_Cokemv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -134,6 +134,7 @@
 {"key":"csp_xpath_huya","name":"xp虎牙直播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/huya2.json"},
 {"key":"csp_xpath_czspp","name":"xp厂长资源","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/czspp.json"},
 {"key":"csp_xpath_lib","name":"xpLibvio","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/lib2.json"},
+{"key":"csp_xpath_dadagui","name":"xp达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/breadmyth/bread/master/MeowXP/dadagui.json"},
 
 
 // ⇩⇩ XBIUBIU ⇩⇩
