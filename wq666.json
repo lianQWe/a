@@ -51,7 +51,7 @@
 {"key":"csp_biubiu_jbb","name":"xb剧白白","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/jbb.json"},
 {"key":"csp_biubiu_xkys","name":"xb星空影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/xkys.json"},
 {"key":"csp_biubiu_lgyy","name":"xb蓝光影院","type": 3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/lgyy.json"},
-{"key":"csp_biubiu_city","name":"xbCity电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/city.json"},
+{"key":"csp_biubiu_city","name":"xbCity电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/city电影.json"},
 {"key":"csp_biubiu_风车动漫","name":"风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/风车动漫.json"},
 {"key":"csp_biubiu_森屋新番","name":"森屋新番","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/森屋新番.json"},
 {"key":"csp_biubiu_维奇动漫","name":"维奇动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/维奇动漫.json"},
