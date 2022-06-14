@@ -1,3 +1,6 @@
+# [猫影视编辑器]
+* https://catvod.github.io/CatVodTVJsonEditor/
+
 # 猫影视TV 2.1.1 BETA6 新功能
 本地接口 clan://协议 简易设定流程：
 * 下载底下懒人包 并记住存放位置
@@ -20,6 +23,3 @@ P.S
 # [beddychen大佬]
 * 下载懒人包：[baddychen0608.zip](https://github.com/YuanHsing/freed/raw/master/猫影视clan懒人包/baddychen0608.zip)
 * 配置接口：clan://localhost/baddychen0608/baddychen0608.json
-
-# [猫影视编辑器]
-https://catvod.github.io/CatVodTVJsonEditor/
