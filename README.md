@@ -20,3 +20,6 @@ P.S
 # [beddychen大佬]
 * 下载懒人包：[baddychen0608.zip](https://github.com/YuanHsing/freed/raw/master/猫影视clan懒人包/baddychen0608.zip)
 * 配置接口：clan://localhost/baddychen0608/baddychen0608.json
+
+# [猫影视编辑器]
+https://catvod.github.io/CatVodTVJsonEditor/
