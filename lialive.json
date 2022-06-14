@@ -16,9 +16,9 @@
       ]
     }
   ],
- "lives": [
+  "lives": [
     {
-      "group": "redirect",
+      "group": "grio1",
       "channels": [
         {
           "name": "live1",
