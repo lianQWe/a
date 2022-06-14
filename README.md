@@ -1,4 +1,4 @@
-# [猫影视编辑器]
+# 猫影视编辑器
 * https://catvod.github.io/CatVodTVJsonEditor/
 
 # 猫影视TV 2.1.1 BETA6 新功能
