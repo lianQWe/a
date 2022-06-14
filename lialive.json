@@ -9,35 +9,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://github.com/laileslie76",
       "categories": [
         "国产剧",
         "港台剧",
-        "欧美剧",
-        "泰剧",
-        "综艺",
-        "港台剧",
-        "古装剧",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "武侠片",
-        "冒险片",
-        "惊骇片",
-        "恐怖片",
-        "魔幻片",
-        "警匪片",
-        "战争片",
-        "记录片",
-        "微电影",
-        "其他片",
-        "动画片"
+        "欧美剧"
       ]
     }
   ],
   "lives": [
     {
-      "group": "group1",
+      "group": "redirect",
       "channels": [
         {
           "name": "name1",
