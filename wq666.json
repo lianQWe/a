@@ -26,17 +26,19 @@
 
 {"key":"csp_xpath_huya","name":"xp虎牙直播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/huya2.json"},
 {"key":"csp_xpath_czspp","name":"xp厂长资源","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/czspp.json"},
-{"key":"csp_xpath_lib","name":"xpLibvio","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/lib2.json"},
-{"key":"csp_xpath_dadagui","name":"xp达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/dadagui.json"},
 {"key":"csp_xpath_qiyou","name":"xp奇优","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/qiyou.json"},
-{"key":"csp_xpath_qiumi","name":"xp🏀球迷","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/qiumi.json"},
 {"key":"csp_xpath_kuqimv","name":"xp🎸MTV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/kuqimv.json"},
-{"key":"csp_xpath_gongren","name":"xp工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/gongreng.json"},
-{"key":"csp_xpath_zxzj","name":"xp在线之家","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/zxzj.json"},
-{"key":"csp_xpath_bidiys","name":"xp哔嘀影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/bidiys.json"},
 {"key":"csp_xpath_dmd","name":"xp动漫岛","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/dmd.json"},
 {"key":"csp_xpath_dm84","name":"xp动漫巴士","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/dm84.json"},
 {"key":"csp_xpath_age","name":"xpAGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/agefans.json"},
+
+{"key":"csp_xpath_lib","name":"xpfLibvio","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/lib2.json"},
+{"key":"csp_xpath_dadagui","name":"xpf达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/dadagui.json"},
+{"key":"csp_xpath_qiumi","name":"xpf🏀球迷","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/qiumi.json"},
+
+{"key":"csp_xpath_gongren","name":"xpmf工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/gongreng.json"},
+{"key":"csp_xpath_zxzj","name":"xpmf在线之家","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/zxzj.json"},
+{"key":"csp_xpath_bidiys","name":"xpmf哔嘀影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/bidiys.json"},
 
 
 
