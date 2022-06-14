@@ -21,12 +21,6 @@
       "group": "redirect",
       "channels": [
         {
-          "name": "name1",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8="
-          ]
-        },
-        {
           "name": "name2",
           "urls": [
             "proxy://do=live&type=txt&ext=aHR0cHM6Ly9icmVhZG15dGguZ2l0aHViLmlvL3R2L2xpdmUvbXR2LnR4dA=="
