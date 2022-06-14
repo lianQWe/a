@@ -7,9 +7,9 @@
 
 
 "sites": [
-
-{"key": "csp_77","name": "默认主页","type": 3,"api": "csp_Kunyu77","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Kunyu77","name": "🍞七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+ 
+ 
+{"key": "csp_Kunyu77","name": "默认主页🍞七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "diduan_spider","name": "😲低端影视(SP)","type": 3,"api": "csp_DiDuan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_CZSPP","name": "🐖厂长(SP)","type": 3,"api": "csp_CZSPP","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "360_spider","name": "😇360(官源)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
