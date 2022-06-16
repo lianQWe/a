@@ -40,7 +40,7 @@
 {"key":"csp_xpath_bidiys","name":"xpmf哔嘀影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/bidiys.json"},
 
 
-
+{"key":"csp_biubiu_douyu","name":"xb斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/douyu.json"},
 {"key":"csp_biubiu_tgys","name":"xb特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/特狗影视.json"},
 {"key":"csp_biubiu_ssdy","name":"xb双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/1010dy.json"},
 {"key":"csp_biubiu_qyyy","name":"xb奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/qyyy.json"},
@@ -57,10 +57,8 @@
 {"key":"csp_biubiu_维奇动漫","name":"xb维奇动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/维奇动漫.json"},
 
 
-
 {"key":"csp_appysv2_兄弟影视","name":"sv2兄弟影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://103.91.211.252:88/xgapp.php/v2/"},
 {"key":"csp_appysv2_9e国语","name":"sv2_9E国语","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
-
 
 
 {"key":"腾讯官网(含官采)","name": "🐧腾讯(官源)","type": 1,"api": "https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
