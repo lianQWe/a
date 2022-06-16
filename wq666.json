@@ -24,48 +24,48 @@
 {"key": "push_agent","name": "推送(阿里)","type": 3,"api": "csp_Ali","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 
-{"key":"csp_xpath_huya","name":"xp🐅虎牙直播","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/huya2.json"},
-{"key":"csp_xpath_czspp","name":"xp厂长资源","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/czspp.json"},
-{"key":"csp_xpath_qiyou","name":"xp奇优","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/qiyou.json"},
-{"key":"csp_xpath_kuqimv","name":"xp🎸MTV","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/kuqimv.json"},
-{"key":"csp_xpath_dmd","name":"xp动漫岛","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/dmd.json"},
-{"key":"csp_xpath_dm84","name":"xp动漫巴士","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/dm84.json"},
-{"key":"csp_xpath_age","name":"xpAGE动漫","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/agefans.json"},
+{"key":"csp_xpath_huya","name":"🐅虎牙直播(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/huya2.json"},
+{"key":"csp_xpath_czspp","name":"厂长资源(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/czspp.json"},
+{"key":"csp_xpath_qiyou","name":"奇优(xp)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/qiyou.json"},
+{"key":"csp_xpath_kuqimv","name":"🎸MTV(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/kuqimv.json"},
+{"key":"csp_xpath_dmd","name":"动漫岛(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/dmd.json"},
+{"key":"csp_xpath_dm84","name":"动漫巴士(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/dm84.json"},
+{"key":"csp_xpath_age","name":"AGE动漫(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/agefans.json"},
 
-{"key":"csp_xpath_lib","name":"xpfLibvio","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/lib2.json"},
-{"key":"csp_xpath_dadagui","name":"xpf达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/dadagui.json"},
-{"key":"csp_xpath_qiumi","name":"xpf🏀球迷","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/qiumi.json"},
+{"key":"csp_xpath_lib","name":"xpfLibvio(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/lib2.json"},
+{"key":"csp_xpath_dadagui","name":"xpf达达龟o(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/dadagui.json"},
+{"key":"csp_xpath_qiumi","name":"xpf🏀球迷o(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/qiumi.json"},
 
-{"key":"csp_xpath_zxzj","name":"xpmf在线之家","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/zxzj.json"},
-{"key":"csp_xpath_bidiys","name":"xpmf哔嘀影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/bidiys.json"},
-
-
-{"key":"csp_biubiu_douyu","name":"xb🐟斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/douyu.json"},
-{"key":"csp_biubiu_tgys","name":"xb特狗影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/特狗影视.json"},
-{"key":"csp_biubiu_ssdy","name":"xb双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/1010dy.json"},
-{"key":"csp_biubiu_qyyy","name":"xb奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/qyyy.json"},
-{"key":"csp_biubiu_lezhutv","name":"xb乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/lezhutv.json"},
-{"key":"csp_biubiu_ysgc","name":"xb影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/ysgc.json"},
-{"key":"csp_biubiu_zmdy","name":"xb周末电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/zmdy.json"},
-{"key":"csp_biubiu_czzy","name":"xb厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/czzy.json"},
-{"key":"csp_biubiu_kdyy","name":"xb口袋影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/kdyy.json"},
-{"key":"csp_biubiu_jbb","name":"xb剧白白","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/jbb.json"},
-{"key":"csp_biubiu_xkys","name":"xb星空影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/xkys.json"},
-{"key":"csp_biubiu_lgyy","name":"xb蓝光影院","type": 3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/lgyy.json"},
-{"key":"csp_biubiu_city","name":"xbCity电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/city电影.json"},
-{"key":"csp_biubiu_风车动漫","name":"xb风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/风车动漫.json"},
-{"key":"csp_biubiu_维奇动漫","name":"xb维奇动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/维奇动漫.json"},
+{"key":"csp_xpath_zxzj","name":"xpmf在线之家(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/zxzj.json"},
+{"key":"csp_xpath_bidiys","name":"xpmf哔嘀影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/bidiys.json"},
 
 
-{"key":"csp_appysv2_兄弟影视","name":"sv2兄弟影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://103.91.211.252:88/xgapp.php/v2/"},
-{"key":"csp_appysv2_9e国语","name":"sv2_9E国语","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
+{"key":"csp_biubiu_douyu","name":"🐟斗鱼直播(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/douyu.json"},
+{"key":"csp_biubiu_tgys","name":"特狗影视(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/特狗影视.json"},
+{"key":"csp_biubiu_ssdy","name":"双十电影(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/1010dy.json"},
+{"key":"csp_biubiu_qyyy","name":"奇优影院(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/qyyy.json"},
+{"key":"csp_biubiu_lezhutv","name":"乐猪影视(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/lezhutv.json"},
+{"key":"csp_biubiu_ysgc","name":"影视工厂(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/ysgc.json"},
+{"key":"csp_biubiu_zmdy","name":"周末电影(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/zmdy.json"},
+{"key":"csp_biubiu_czzy","name":"厂长资源(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/czzy.json"},
+{"key":"csp_biubiu_kdyy","name":"口袋影院(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/kdyy.json"},
+{"key":"csp_biubiu_jbb","name":"剧白白(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/jbb.json"},
+{"key":"csp_biubiu_xkys","name":"星空影视(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/xkys.json"},
+{"key":"csp_biubiu_lgyy","name":"蓝光影院(xb)","type": 3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/lgyy.json"},
+{"key":"csp_biubiu_city","name":"City电影(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/city电影.json"},
+{"key":"csp_biubiu_风车动漫","name":"风车动漫(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/风车动漫.json"},
+{"key":"csp_biubiu_维奇动漫","name":"维奇动漫(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/维奇动漫.json"},
 
 
-{"key":"腾讯官网(含官采)","name": "🐧腾讯(官源)","type": 1,"api": "https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"腾讯直采(官源)","name":"腾讯直采(官源)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"8090资源(含官采)","name":"8090资源网(含官采)","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"m3u8资源(含官采)","name":"m3u8资源(含官采)","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"TG官采(含官采)","name":"TG(含官采)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0}
+{"key":"csp_appysv2_兄弟影视","name":"兄弟影视(sv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://103.91.211.252:88/xgapp.php/v2/"},
+{"key":"csp_appysv2_9e国语","name":"9E国语(sv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
+
+
+{"key":"腾讯官网(含官采)","name": "🐧腾讯(xml官采)","type": 1,"api": "https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key":"腾讯直采(官源)","name":"腾讯直采(xml官采)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"8090资源(含官采)","name":"8090资源网(xml官采)","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"m3u8资源(含官采)","name":"m3u8资源(xml官采)","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"TG官采(含官采)","name":"TG资源(xml官采)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0}
 ],
 
 
