@@ -25,6 +25,7 @@
 
 
 {"key":"csp_xpath_czspp","name":"厂长资源(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/czspp.json"},
+{"key":"csp_xpath_kbzyy","name":"扛把子影院(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/kangbazi.json"},
 {"key":"csp_xpath_dzdy","name":"钉子电影(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/dzdy.json"},
 
 {"key":"csp_xpath_lib","name":"Libvio(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/lib2.json"},
@@ -55,6 +56,7 @@
 {"key":"csp_biubiu_dmxq","name":"大米星球(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/大米星球.json"},
 {"key":"csp_biubiu_gptv","name":"瓜皮TV(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/瓜皮TV.json"},
 {"key":"csp_biubiu_kdyy","name":"口袋影院(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/口袋影院.json"},
+{"key":"csp_biubiu_kbzyy","name":"扛把子影院(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/扛把子.json"},
 {"key":"csp_biubiu_4kdyw","name":"4kan电影网(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/4kan电影网.json"},
 {"key":"csp_biubiu_zdkyy","name":"真的卡影院(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/真的卡影院.json"},
 {"key":"csp_biubiu_lezhutv","name":"乐猪影视(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/lezhutv.json"},
