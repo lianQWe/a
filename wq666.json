@@ -84,9 +84,10 @@
 {"key":"csp_xpath_kuqimv","name":"🎸MTV(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/kuqimv.json"},
 {"key":"csp_xpath_huya","name":"🐅虎牙直播(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/huya2.json"},
 {"key":"csp_biubiu_douyu","name":"🐟斗鱼直播(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/douyu.json"},
-{"key":"斗鱼直播","name":"🐟斗鱼直播(vlc)","type":1,"api": "http://jb001.eu5.org/tmp/t/u/douyu.php","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"开麦K歌搜人","name":"开麦K歌搜人(vlc)","type":1,"api": "http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"开麦K歌搜歌","name":"开麦K歌搜歌(vlc)","type":1,"api": "http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quicksearch":1,"filterable":0},
+{"key":"php_斗鱼直播","name":"🐟斗鱼直播(vlc)","type":1,"api": "http://jb001.eu5.org/tmp/t/u/douyu.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"php_开麦K歌搜人","name":"开麦K歌搜人(vlc)","type":1,"api": "http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"php_开麦K歌搜歌","name":"开麦K歌搜歌(vlc)","type":1,"api": "http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quicksearch":1,"filterable":0},
+{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "push_agent","name": "推送(阿里)","type": 3,"api": "csp_Ali","searchable": 0,"quickSearch": 0,"filterable": 0}
 ],
 
