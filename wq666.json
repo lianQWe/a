@@ -35,7 +35,6 @@
 
 {"key":"csp_xpath_lib","name":"Libvio(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/lib2.json"},
 {"key":"csp_xpath_dadagui","name":"达达龟(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/dadagui.json"},
-{"key":"csp_xpath_52bdys","name":"52哔嘀影视(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/52bdys.json"},
 {"key":"csp_xpath_qiumi","name":"🏀球迷(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/qiumi.json"},
 
 {"key":"csp_xpath_hdys","name":"黑洞影视(xpm)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/hdys.json"},
@@ -46,7 +45,6 @@
 {"key":"csp_xpath_hhys","name":"火火影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/hhys.json"},
 {"key":"csp_xpath_wmkk","name":"完美看看(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/wmkk.json"},
 {"key":"csp_xpath_6dtv","name":"六度TV(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/6dtv.json"},
-{"key":"csp_xpath_dunkfun","name":"dunkfun(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/dunkfun.json"},
 
 
 {"key":"csp_biubiu_douyu","name":"🐟斗鱼直播(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/douyu.json"},
@@ -66,18 +64,15 @@
 {"key":"csp_biubiu_dmxq","name":"大米星球(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/大米星球.json"},
 {"key":"csp_biubiu_zdkyy","name":"真的卡影院(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/真的卡影院.json"},
 {"key":"csp_biubiu_gptv","name":"瓜皮TV(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/瓜皮TV.json"},
-{"key":"csp_biubiu_hanju","name":"晗剧(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/晗剧.json"},
 {"key":"csp_biubiu_kdyy","name":"口袋影院(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/口袋影院.json"},
 {"key":"csp_biubiu_4kdyw","name":"4kan电影网(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/4kan电影网.json"},
 {"key":"csp_biubiu_fcdm","name":"风车动漫(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/风车动漫.json"},
 {"key":"csp_biubiu_wqdm","name":"维奇动漫(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/维奇动漫.json"},
-{"key":"csp_biubiu_swxf","name":"森屋新番(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/森屋新番.json"},
 
 
 {"key":"csp_appysv2_兄弟影视","name":"兄弟影视(sv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://103.91.211.252:88/xgapp.php/v2/"},
 {"key":"csp_appysv2_9e国语","name":"9E国语(sv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"csp_Appysv2_美剧范","name":"美剧范(sv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
-{"key":"csp_Appysv2_爱酷影视","name":"爱酷影视(sv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
 
 
 {"key":"腾讯官网(含官采)","name": "🐧腾讯(xml官采)","type": 1,"api": "https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
