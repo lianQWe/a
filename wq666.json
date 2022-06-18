@@ -56,6 +56,7 @@
 {"key":"csp_biubiu_kpkr","name":"看片狂人(xb)","type": 3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/看片狂人.json"},
 {"key":"csp_biubiu_dmxq","name":"大米星球(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/大米星球.json"},
 {"key":"csp_biubiu_gptv","name":"瓜皮TV(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/瓜皮TV.json"},
+{"key":"csp_biubiu_tvbyb","name":"TVB云播(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/TVB云播.json"},
 {"key":"csp_biubiu_kdyy","name":"口袋影院(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/口袋影院.json"},
 {"key":"csp_biubiu_4kdyw","name":"4kan电影网(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/4kan电影网.json"},
 {"key":"csp_biubiu_zdkyy","name":"真的卡影院(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/真的卡影院.json"},
