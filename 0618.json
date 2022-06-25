@@ -3,7 +3,7 @@
 ## 究极无敌缝合源,东拼西凑,不加密,大佬们突然撤源,留下一堆加密图片,风中凌乱,特别感谢所有源原作者,感谢!
 
   "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://lianqwe.github.io/a/0618.jar",
+  "spider": "https://lianqwe.github.io/a/ml6.jar",
 
 
 "sites": [
@@ -22,7 +22,15 @@
 {"key": "csp_GitCafe","name": "🐾小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_Alips","name": "🐱喵狸盘搜(仅搜索)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_xpath_nbys","name": "泥巴(需梯子)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+    {
+      "key": "csp_BBB",
+      "name": "哔哩哔哩",
+      "type": 3,
+      "api": "csp_BBB",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
 
 {"key":"csp_xpath_czspp","name":"厂长资源(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/czspp.json"},
 {"key":"csp_xpath_dzdy","name":"钉子电影(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/dzdy.json"},
